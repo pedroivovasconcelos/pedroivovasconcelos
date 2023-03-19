@@ -1,4 +1,8 @@
-![Alt Text](https://i.pinimg.com/originals/46/fa/ef/46faefeb80d19ef39509fca340fdadc9.gif)
+<div align="center">
+  <a href="https://github.com/pedroivovasconcelos/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroivovasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivovasconcelos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 - 👋 Hi, I’m @pedroivovasconcelos
 - 👀 I’m interested in Data Engineering, Python, Automated Vehicles, Data Science, Machine Learning
