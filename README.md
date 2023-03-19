@@ -17,8 +17,8 @@
 
 - 👋 Hi, I’m @pedroivovasconcelos
 - 👀 I’m interested in Data Engineering, Python, Automated Vehicles, Data Science, Machine Learning
-- 🌱 I’m currently learning Data Engineering and Python
-- 💞️ I’m looking to collaborate on Automated Vehicles projects
+- 🌱 I’m currently working as Data Engineer using Python, Databricks and Azure
+- 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me: https://www.linkedin.com/in/pedroivovasconcelos/
 
 <!---
