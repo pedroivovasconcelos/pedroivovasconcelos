@@ -55,9 +55,9 @@ Para conhecer melhor meu trabalho e trajetória profissional, visite meu [perfil
 
 ## GitHub Stats & WakaTime
 
-As métricas de atividade abaixo são atualizadas diariamente pelo workflow `.github/workflows/waka.yml`. Para ativá-lo, ainda é necessário cadastrar `WAKATIME_API_KEY` em **Settings → Secrets and variables → Actions → New repository secret** e executar o workflow manualmente uma vez. Sem esse secret, a seção entre os marcadores permanece vazia.
+As métricas de atividade abaixo são atualizadas diariamente pelo workflow `.github/workflows/waka.yml`. Para ativá-lo, ainda é necessário cadastrar `WAKATIME_API_KEY` em **Settings → Secrets and variables → Actions → New repository secret** e executar o workflow manualmente uma vez. Sem esse secret, a seção entre os marcadores permanece vazia e o workflow registra um skip bem-sucedido, sem quebrar o status do repositório.
 
-O workflow recebe permissão restrita de escrita em conteúdo porque precisa atualizar este README. A publicação das métricas torna pública a atividade agregada dos últimos sete dias; revise a configuração de privacidade do WakaTime antes da primeira execução.
+O workflow recebe permissão restrita de escrita em conteúdo porque precisa atualizar este README. A action `athul/waka-readme` está fixada em um commit imutável, evitando mudança silenciosa do código executado. A publicação das métricas torna pública a atividade agregada dos últimos sete dias; revise a configuração de privacidade do WakaTime antes da primeira execução.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
