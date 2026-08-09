@@ -52,3 +52,14 @@ Uma aventura aérea 2.5D em pixel-voxel criada para a web.
 ## Contato
 
 Para conhecer melhor meu trabalho e trajetória profissional, visite meu [perfil no LinkedIn](https://www.linkedin.com/in/pedro-ivo-vasconcelos-bb4632a5/).
+
+## GitHub Stats & WakaTime
+
+As métricas de atividade abaixo são atualizadas diariamente pelo workflow `.github/workflows/waka.yml`. Para ativá-lo, ainda é necessário cadastrar `WAKATIME_API_KEY` em **Settings → Secrets and variables → Actions → New repository secret** e executar o workflow manualmente uma vez. Sem esse secret, a seção entre os marcadores permanece vazia.
+
+O workflow recebe permissão restrita de escrita em conteúdo porque precisa atualizar este README. A publicação das métricas torna pública a atividade agregada dos últimos sete dias; revise a configuração de privacidade do WakaTime antes da primeira execução.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroivovasconcelos&show_icons=true&theme=radium)
