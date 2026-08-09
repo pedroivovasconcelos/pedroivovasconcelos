@@ -1,27 +1,65 @@
 <div align="center">
-  <a href="https://github.com/pedroivovasconcelos/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroivovasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivovasconcelos&layout=compact&langs_count=7&theme=dracula"/>
+
+# Pedro Ivo Vasconcelos
+
+**IA aplicada · automação · dados · produtos digitais**
+
+Transformo ideias em experiências digitais úteis, conectando tecnologia, clareza e produto.
+
+[Projetos](#projetos-em-destaque) · [Áreas de atuação](#áreas-de-atuação) · [LinkedIn](https://www.linkedin.com/in/pedro-ivo-vasconcelos-bb4632a5/)
+
 </div>
 
-<p align='center'>
-<div style="display: inline_block"><br>
-  <img align="center" alt="PIvo-Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img align="center" alt="PIvo-Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
-  <img align="center" alt="PIvo-Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img align="center" alt="PIvo-Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img align="center" alt="PIvo-Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  <img align="center" alt="PIvo-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</div>
-</p> 
+---
 
-- 👋 Hi, I’m @pedroivovasconcelos
-- 👀 I’m interested in Data Engineering, Python, Automated Vehicles, Data Science, Machine Learning
-- 🌱 I’m currently working as Data Engineer using Python, Databricks and Azure
-- 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me: https://www.linkedin.com/in/pedroivovasconcelos/
+## Sobre
 
-<!---
-pedroivovasconcelos/pedroivovasconcelos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Atuo na interseção entre inteligência artificial, automação, dados e desenvolvimento de produtos digitais. Gosto de levar uma ideia do primeiro protótipo a uma experiência clara, funcional e preparada para evoluir.
+
+**Quantorin** é o estúdio e guarda-chuva que organiza esse trabalho: experimentos, produtos e narrativas digitais construídos com IA como parte do processo criativo e técnico.
+
+> **English summary:** I build AI-enabled digital products at the intersection of automation, data and thoughtful user experience. Quantorin is the studio and umbrella for this work.
+
+## Projetos em destaque
+
+### [Farolio](https://farolio.vercel.app/)
+
+Um espaço colaborativo que transforma informações financeiras em decisões claras e próximas ações.
+
+### [SternaWay](https://sternaway.vercel.app/)
+
+Planejamento de viagens com IA, com rotas que podem se tornar blueprints públicos e reutilizáveis.
+
+### [SternaFly](https://sternafly.web.app/)
+
+Uma aventura aérea 2.5D em pixel-voxel criada para a web.
+
+## Áreas de atuação
+
+- Produtos digitais orientados por IA
+- Automação de processos e fluxos de trabalho
+- Dados aplicados à tomada de decisão
+- Prototipação e desenvolvimento de experiências web
+- Integração entre produto, tecnologia e narrativa
+
+## Como eu trabalho
+
+- **Clareza:** tecnologia deve tornar decisões e experiências mais simples.
+- **Iteração:** protótipos servem para aprender, validar e evoluir rapidamente.
+- **Responsabilidade:** privacidade, segurança e contexto fazem parte do produto.
+- **Visão de produto:** código, design e operação precisam funcionar como um sistema.
+
+## Contato
+
+Para conhecer melhor meu trabalho e trajetória profissional, visite meu [perfil no LinkedIn](https://www.linkedin.com/in/pedro-ivo-vasconcelos-bb4632a5/).
+
+## GitHub Stats & WakaTime
+
+As métricas de atividade abaixo são atualizadas diariamente pelo workflow `.github/workflows/waka.yml`. Para ativá-lo, ainda é necessário cadastrar `WAKATIME_API_KEY` em **Settings → Secrets and variables → Actions → New repository secret** e executar o workflow manualmente uma vez. Sem esse secret, a seção entre os marcadores permanece vazia e o workflow registra um skip bem-sucedido, sem quebrar o status do repositório.
+
+O workflow recebe permissão restrita de escrita em conteúdo porque precisa atualizar este README. A action `athul/waka-readme` está fixada em um commit imutável, evitando mudança silenciosa do código executado. A publicação das métricas torna pública a atividade agregada dos últimos sete dias; revise a configuração de privacidade do WakaTime antes da primeira execução.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroivovasconcelos&show_icons=true&theme=radium)
