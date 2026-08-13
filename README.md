@@ -1,65 +1,77 @@
 <div align="center">
 
-# Pedro Ivo Vasconcelos
+# Hi there, I'm Pedro Ivo Vasconcelos 👋
+### Applied AI Engineer · Product Systems & Automation · Financial OS
 
-**IA aplicada · automação · dados · produtos digitais**
+[![Portfolio Website](https://img.shields.io/badge/🌐_Website-pedroivovasconcelos.github.io-38bdf8?style=for-the-badge)](https://pedroivovasconcelos.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ivo-vasconcelos-bb4632a5/)
+[![GitHub Followers](https://img.shields.io/github/followers/pedroivovasconcelos?style=for-the-badge&color=0284c7)](https://github.com/pedroivovasconcelos)
 
-Transformo ideias em experiências digitais úteis, conectando tecnologia, clareza e produto.
+<p align="center">
+  <i>Building autonomous agentic tools, financial decision systems, and interactive web experiences through <b>Quantorin Studio</b>.</i>
+</p>
 
-[Projetos](#projetos-em-destaque) · [Áreas de atuação](#áreas-de-atuação) · [LinkedIn](https://www.linkedin.com/in/pedro-ivo-vasconcelos-bb4632a5/)
+---
+
+</div>
+
+## 🚀 About Me
+
+I craft digital products at the intersection of **Artificial Intelligence**, **Product Engineering**, and **Data Systems**. My focus is bridging the gap between raw AI capabilities and intuitive, human-centered applications that scale seamlessly.
+
+- 🤖 **Agentic AI & Orchestration**: Building local harnesses, multi-agent frameworks, and workflow distillation (`Quantorin`).
+- 🏦 **Financial Systems**: Engineering institutional & personal decision platforms (`Farolio`, `Personal Investment OS`).
+- 🌍 **Geospatial & Travel**: Designing offline-first PWA route blueprint engines (`SternaWay`).
+- 🎮 **Canvas & Game Engines**: Developing web-native 2.5D games, physics runtimes, and audio OS (`SternaFly`, `WorkSlop Games`, `SternaMusic`).
+
+---
+
+## 🛠️ Tech Stack & Capabilities
+
+| Domain | Technologies & Tooling |
+| :--- | :--- |
+| **Languages & Runtimes** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Frameworks & UI** | ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white) ![Astro 5](https://img.shields.io/badge/Astro_5-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **AI Systems & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Backend & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Quality & Testing** | ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![ESLint 9](https://img.shields.io/badge/ESLint_9-4B32C3?style=flat-square&logo=eslint&logoColor=white) |
+
+---
+
+## 🌟 Ecosystem & Flagship Products
+
+<div align="center">
+
+| Project | Description | Stack & Architecture | Status |
+| :--- | :--- | :--- | :---: |
+| 🏦 **[Farolio](https://farolio.vercel.app/)** | Collaborative financial OS & decision intelligence system | `Next.js 16`, `Supabase RLS`, `TypeScript`, `Vitest` | 🟢 Production |
+| ✈️ **[SternaWay](https://sternaway.vercel.app/)** | AI-powered travel route planning & public blueprint engine | `React 19`, `Liveblocks Realtime`, `PWA Offline` | 🟢 Production |
+| 🦩 **[SternaFly](https://sternafly.web.app/)** | 2.5D web-native aerial roguelite adventure & flight physics | `Canvas 2D`, `Three.js`, `Vitest (232 tests)` | 🟢 Production |
+| 🎵 **[SternaMusic](https://sternamusic.vercel.app/)** | Gemini/Lyria audio OS & sound waveform generator companion | `Vite`, `WaveSurfer.js`, `Express Companion` | 🟢 Production |
+| 🎮 **[WorkSlop Games](https://quantorin.vercel.app/games)** | Suite of 13 microbreak games & Canvas engines | `Next.js 16 App Router`, `ESLint 9`, `React 19` | 🟢 Production |
+| 🤖 **[Quantorin Harness](https://github.com/pedroivovasconcelos/Quantorin)** | Local agentic AI control plane & multi-agent evaluator | `Python 3.12`, `Pytest (120 tests)`, `Ollama` | 🟢 Active |
 
 </div>
 
 ---
 
-## Sobre
+## 📊 GitHub Analytics & Activity
 
-Atuo na interseção entre inteligência artificial, automação, dados e desenvolvimento de produtos digitais. Gosto de levar uma ideia do primeiro protótipo a uma experiência clara, funcional e preparada para evoluir.
+<div align="center">
 
-**Quantorin** é o estúdio e guarda-chuva que organiza esse trabalho: experimentos, produtos e narrativas digitais construídos com IA como parte do processo criativo e técnico.
+<img src="https://github-readme-stats.vercel.app/api?username=pedroivovasconcelos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pedro's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivovasconcelos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
-> **English summary:** I build AI-enabled digital products at the intersection of automation, data and thoughtful user experience. Quantorin is the studio and umbrella for this work.
-
-## Projetos em destaque
-
-### [Farolio](https://farolio.vercel.app/)
-
-Um espaço colaborativo que transforma informações financeiras em decisões claras e próximas ações.
-
-### [SternaWay](https://sternaway.vercel.app/)
-
-Planejamento de viagens com IA, com rotas que podem se tornar blueprints públicos e reutilizáveis.
-
-### [SternaFly](https://sternafly.web.app/)
-
-Uma aventura aérea 2.5D em pixel-voxel criada para a web.
-
-## Áreas de atuação
-
-- Produtos digitais orientados por IA
-- Automação de processos e fluxos de trabalho
-- Dados aplicados à tomada de decisão
-- Prototipação e desenvolvimento de experiências web
-- Integração entre produto, tecnologia e narrativa
-
-## Como eu trabalho
-
-- **Clareza:** tecnologia deve tornar decisões e experiências mais simples.
-- **Iteração:** protótipos servem para aprender, validar e evoluir rapidamente.
-- **Responsabilidade:** privacidade, segurança e contexto fazem parte do produto.
-- **Visão de produto:** código, design e operação precisam funcionar como um sistema.
-
-## Contato
-
-Para conhecer melhor meu trabalho e trajetória profissional, visite meu [perfil no LinkedIn](https://www.linkedin.com/in/pedro-ivo-vasconcelos-bb4632a5/).
-
-## GitHub Stats & WakaTime
-
-As métricas de atividade abaixo são atualizadas diariamente pelo workflow `.github/workflows/waka.yml`. Para ativá-lo, ainda é necessário cadastrar `WAKATIME_API_KEY` em **Settings → Secrets and variables → Actions → New repository secret** e executar o workflow manualmente uma vez. Sem esse secret, a seção entre os marcadores permanece vazia e o workflow registra um skip bem-sucedido, sem quebrar o status do repositório.
-
-O workflow recebe permissão restrita de escrita em conteúdo porque precisa atualizar este README. A action `athul/waka-readme` está fixada em um commit imutável, evitando mudança silenciosa do código executado. A publicação das métricas torna pública a atividade agregada dos últimos sete dias; revise a configuração de privacidade do WakaTime antes da primeira execução.
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroivovasconcelos&show_icons=true&theme=radium)
+---
+
+<div align="center">
+
+*Designed & Maintained by **Pedro Ivo Vasconcelos** · [pedroivovasconcelos.github.io](https://pedroivovasconcelos.github.io)*
+
+</div>
+
