@@ -52,7 +52,7 @@ Beyond core data engineering, I build production-grade agentic frameworks, Model
 
 ### [Dióio — Real Estate Intelligence OS](https://dioio.vercel.app/)
 *Multi-City Property Intelligence & Investment Decision System*
-- Quantitative real estate analytics platform featuring micro-location access auditing, auction risk analysis, and financial comparators.
+- Quantitative real estate analytics platform featuring micro-location access auditing, auction risk analysis, and financial comparators (private production deployment, restricted access).
 - Stack: Next.js 16, Supabase SSR, Row-Level Security (RLS), Leaflet spatial mapping, and isolated test demo environment.
 
 ---
