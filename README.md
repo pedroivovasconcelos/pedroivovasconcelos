@@ -1,77 +1,72 @@
-<div align="center">
+# Pedro Ivo Vasconcelos
+### Data Engineer | Data Platforms, Reliability & Applied AI
 
-# Hi there, I'm Pedro Ivo Vasconcelos 👋
-### Applied AI Engineer · Product Systems & Automation · Financial OS
-
-[![Portfolio Website](https://img.shields.io/badge/🌐_Website-pedroivovasconcelos.github.io-38bdf8?style=for-the-badge)](https://pedroivovasconcelos.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ivo-vasconcelos-bb4632a5/)
-[![GitHub Followers](https://img.shields.io/github/followers/pedroivovasconcelos?style=for-the-badge&color=0284c7)](https://github.com/pedroivovasconcelos)
-
-<p align="center">
-  <i>Building autonomous agentic tools, financial decision systems, and interactive web experiences through <b>Quantorin Studio</b>.</i>
-</p>
+Belo Horizonte, Brazil · [Website](https://pedroivovasconcelos.github.io/) · [LinkedIn](https://www.linkedin.com/in/pedro-ivo-vasconcelos-bb4632a5/) · [GitHub](https://github.com/pedroivovasconcelos) · [Resume](https://pedroivovasconcelos.github.io/resume/)
 
 ---
 
-</div>
+## 👨‍💻 Professional Summary
 
-## 🚀 About Me
+I am a **Data Engineer** with a background in Control and Automation Engineering from **UFMG**, specializing in **Data Platform Engineering**, **Data Reliability**, and **Applied AI Systems**. 
 
-I craft digital products at the intersection of **Artificial Intelligence**, **Product Engineering**, and **Data Systems**. My focus is bridging the gap between raw AI capabilities and intuitive, human-centered applications that scale seamlessly.
+Currently, I work on the **Data Platform Engineering** team at **Playlist** (previously Mindbody), building reliable, high-throughput analytical infrastructure, modern data warehouse architectures, and automated ingestion pipelines. 
 
-- 🤖 **Agentic AI & Orchestration**: Building local harnesses, multi-agent frameworks, and workflow distillation (`Quantorin`).
-- 🏦 **Financial Systems**: Engineering institutional & personal decision platforms (`Farolio`, `Personal Investment OS`).
-- 🌍 **Geospatial & Travel**: Designing offline-first PWA route blueprint engines (`SternaWay`).
-- 🎮 **Canvas & Game Engines**: Developing web-native 2.5D games, physics runtimes, and audio OS (`SternaFly`, `WorkSlop Games`, `SternaMusic`).
+Beyond core data engineering, I build production-grade agentic frameworks, Model Context Protocol (MCP) servers, and deterministic simulation systems through my independent research lab, **Quantorin**.
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
+## 🛠️ Core Technical Competencies
 
-| Domain | Technologies & Tooling |
-| :--- | :--- |
-| **Languages & Runtimes** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Frameworks & UI** | ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white) ![Astro 5](https://img.shields.io/badge/Astro_5-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **AI Systems & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Backend & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Quality & Testing** | ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![ESLint 9](https://img.shields.io/badge/ESLint_9-4B32C3?style=flat-square&logo=eslint&logoColor=white) |
+- **Data Warehousing & Cloud Platforms:** Snowflake, Databricks, AWS (S3, Lambda, IAM), Microsoft SQL Server, PostgreSQL.
+- **Data Pipelines & Ingestion:** Python, SQL, Fivetran, SSIS, dbt, Apache Airflow / Orchestration, batch & streaming architectures.
+- **Data Reliability & Governance:** Automated data quality gates, schema evolution, observability, performance profiling, storage cost optimization.
+- **Applied AI & Autonomous Systems:** LLM application engineering, Model Context Protocol (MCP), agentic harnesses, evaluation benchmarks, multi-agent coordination.
+- **Software Engineering & Web:** Python 3.12, TypeScript, Node.js, Next.js, Astro, Vitest, Pytest, Playwright, CI/CD with GitHub Actions.
 
 ---
 
-## 🌟 Ecosystem & Flagship Products
+## 📈 Proven Engineering Impact
 
-<div align="center">
-
-| Project | Description | Stack & Architecture | Status |
-| :--- | :--- | :--- | :---: |
-| 🏦 **[Farolio](https://farolio.vercel.app/)** | Collaborative financial OS & decision intelligence system | `Next.js 16`, `Supabase RLS`, `TypeScript`, `Vitest` | 🟢 Production |
-| ✈️ **[SternaWay](https://sternaway.vercel.app/)** | AI-powered travel route planning & public blueprint engine | `React 19`, `Liveblocks Realtime`, `PWA Offline` | 🟢 Production |
-| 🦩 **[SternaFly](https://sternafly.web.app/)** | 2.5D web-native aerial roguelite adventure & flight physics | `Canvas 2D`, `Three.js`, `Vitest (232 tests)` | 🟢 Production |
-| 🎵 **[SternaMusic](https://sternamusic.vercel.app/)** | Gemini/Lyria audio OS & sound waveform generator companion | `Vite`, `WaveSurfer.js`, `Express Companion` | 🟢 Production |
-| 🎮 **[WorkSlop Games](https://quantorin.vercel.app/games)** | Suite of 13 microbreak games & Canvas engines | `Next.js 16 App Router`, `ESLint 9`, `React 19` | 🟢 Production |
-| 🤖 **[Quantorin Harness](https://github.com/pedroivovasconcelos/Quantorin)** | Local agentic AI control plane & multi-agent evaluator | `Python 3.12`, `Pytest (120 tests)`, `Ollama` | 🟢 Active |
-
-</div>
+- **Snowflake Storage Optimization (CI&T):** Led architecture audit and data lifecycle restructuring that achieved a **~60% reduction in Snowflake cloud storage footprint** without degrading query performance.
+- **PostgreSQL Latency Reduction (CI&T):** Redesigned relational schema indexing, partitioned high-volume tables, and tuned execution plans, cutting query latency by **up to 90% (achieving ~30 ms p95 response time)**.
+- **Data Platform Reliability (Playlist / Mindbody):** Engineered robust end-to-end data pipelines connecting legacy SQL Server / SSIS ecosystems and modern cloud data warehouses with continuous validation and failure alerting.
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 🚀 Featured Engineering Projects
 
-<div align="center">
+### [Quantorin AI](https://quantorin-ai.vercel.app/)
+*Applied AI Showcase & Multi-Agent Evaluation Platform*
+- Production web application and control plane for autonomous multi-agent systems and creative tools.
+- Architecture: Next.js 16 (Turbopack), Tailwind CSS, automated CI/CD pipeline, and structured agent receipts.
 
-<img src="https://github-readme-stats.vercel.app/api?username=pedroivovasconcelos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pedro's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroivovasconcelos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+### [Work & Slop Games](https://workslop-games.vercel.app/)
+*High-Performance WebGL & Canvas Game Engine Suite*
+- Web-native 3D/2.5D game hub featuring Babylon.js, custom isometric physics, and local save management.
+- Quality: 259+ automated Vitest tests, headless Playwright regression suite, zero layout shifts, auto-hide HUD.
 
-</div>
+### [CCT World Engine](https://github.com/pedroivovasconcelos/cct-world-engine)
+*Deterministic Simulation & Planetary Mechanics Engine*
+- High-precision orbital mechanics, calendar math, and environmental modeling in Python.
+- Quality: 201/201 automated pytest tests passing cleanly, strict type annotations, zero-dependency core.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### [Dióio — Real Estate Intelligence OS](https://dioio.vercel.app/)
+*Multi-City Property Intelligence & Investment Decision System*
+- Quantitative real estate analytics platform featuring micro-location access auditing, auction risk analysis, and financial comparators.
+- Stack: Next.js 16, Supabase SSR, Row-Level Security (RLS), Leaflet spatial mapping, and isolated test demo environment.
 
 ---
 
-<div align="center">
+## 🎓 Education & Continuous Learning
 
-*Designed & Maintained by **Pedro Ivo Vasconcelos** · [pedroivovasconcelos.github.io](https://pedroivovasconcelos.github.io)*
+- **B.S. in Control and Automation Engineering** — Universidade Federal de Minas Gerais (**UFMG**)
+- **Machine Learning Specialization** — DeepLearning.AI / Stanford Online (*in progress*)
 
-</div>
+---
 
+## 📬 Contact & Professional Links
+
+- **Portfolio & Case Studies:** [pedroivovasconcelos.github.io](https://pedroivovasconcelos.github.io/)
+- **LinkedIn:** [linkedin.com/in/pedro-ivo-vasconcelos](https://www.linkedin.com/in/pedro-ivo-vasconcelos-bb4632a5/)
+- **Full Resume / CV:** [View Interactive Resume](https://pedroivovasconcelos.github.io/resume/)
+- **Email:** Available via LinkedIn or website contact form.
